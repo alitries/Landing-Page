@@ -15,3 +15,4 @@
 	- **Customization-** I added custom utilities for colors, typography, and spacing to maintain a consistent design language throughout the project.
 - **The Figma design link used as a reference:**	https://www.figma.com/design/fGTIi3sHisWqP8b0PbCUaq/App-Landing-Page-Finance-Bank-Money-(Community)-(Copy)?node-id=101-79&t=XboBFGTSjX5eYLYg-1
 	
+- **Vercel Link-** https://landing-page-drab-six.vercel.app/
