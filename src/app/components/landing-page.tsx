@@ -78,7 +78,7 @@ const LandingPage = () => {
                 quality={100}
               />
             </div>
-            <div className="absolute md:left-[15rem] hidden z-0">
+            <div className="absolute md:left-[15rem] hidden md:block z-0">
               <Image
                 src="/images/phone1.png"
                 alt="Phone 3"
