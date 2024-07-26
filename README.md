@@ -1,4 +1,4 @@
-# Batch System Internship Assignment
+# Landing Page
 - **Instructions to run the project locally:** 
 	- **Step 1:** Clone the repository -```git clone ```.
 	- **Step 2:** Run ```npm intsall``` in the terminal.
